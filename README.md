@@ -1,3 +1,4 @@
+
 [![CI](https://github.com/infection/extension-installer/workflows/Tests/badge.svg)](https://github.com/infection/extension-installer/actions)
 [![Coverage Status](https://coveralls.io/repos/github/infection/extension-installer/badge.svg?branch=master)](https://coveralls.io/github/infection/extension-installer?branch=master)
 
